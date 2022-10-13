@@ -6,6 +6,9 @@ html {
     margin: 0;
     padding: 0;
 }
+.mobile{
+    display: none;
+}
 
 .logo {
     width: 200px;
