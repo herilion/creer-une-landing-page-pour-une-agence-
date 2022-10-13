@@ -201,6 +201,9 @@ img {
         margin: 0;
         padding: 0;
     }
+    .pc{
+        display: none;
+    }
     .logo {
         width: 200px;
     }
