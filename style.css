@@ -204,6 +204,21 @@ img {
     .pc{
         display: none;
     }
+    .mobile{
+    display: flex;
+}
+.mobile .imghub{
+    width: 40px;
+    display: flex;
+    
+}
+
+.imghub>img {
+    position: absolute;
+    width: 40px;
+    top: 18px;
+    right: 5px;
+}
     .logo {
         width: 200px;
     }
@@ -245,6 +260,7 @@ img {
     .BigTitle {
         color: white;
         font-size: 15px;
+        margin-top: 20px;
     }
     #BigTitle {
         color: white;
