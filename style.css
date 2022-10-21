@@ -211,6 +211,7 @@ img {
     width: 40px;
     display: flex;
     
+    
 }
 
 .imghub>img {
@@ -218,6 +219,12 @@ img {
     width: 40px;
     top: 18px;
     right: 5px;
+}
+.menu2{
+    text-align: left;
+}
+.menushow{
+    display: grid;
 }
     .logo {
         width: 200px;
