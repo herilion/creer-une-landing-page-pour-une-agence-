@@ -210,7 +210,7 @@ img {
 .mobile .imghub{
     width: 40px;
     display: flex;
-    
+
     
 }
 
@@ -220,13 +220,15 @@ img {
     top: 18px;
     right: 5px;
 }
-.menu2{
+
+.menu2>ul{
+    margin-top: 20px;
     text-align: left;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
 }
-.menushow{
-    display: grid;
-}
-    .logo {
+  .logo {
         width: 200px;
     }
     .li1,
